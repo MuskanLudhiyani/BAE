@@ -36,9 +36,9 @@ Followings things can be done using our application:
 
 ## Contributors
 
-<a href="https://github.com/MuskanLudhiyani"><img src="https://avatars1.githubusercontent.com/u/45829275?s=460&v=4" width="200"></img></a>
+<a href="https://github.com/kamtasingh27"><img src="https://avatars1.githubusercontent.com/u/45829275?s=460&v=4" width="200"></img></a>
 
-[kamta singh](https://github.com/kamtasingh27)
+[Kamta Singh](https://github.com/kamtasingh27)
 
 ## Screenshots
 
