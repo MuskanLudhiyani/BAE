@@ -36,7 +36,7 @@ Followings things can be done using our application:
 
 ## Contributors
 
-<a href="https://github.com/kamtasingh27"><img src="https://avatars1.githubusercontent.com/u/45829275?s=460&v=4" width="200"></img></a>
+<a href="https://github.com/kamtasingh27"><img src="https://avatars.githubusercontent.com/u/49561499?v=4" width="200"></img></a>
 
 [Kamta Singh](https://github.com/kamtasingh27)
 
